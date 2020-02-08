@@ -10,4 +10,4 @@ I would like to share my notes and hope someone else looking to do the same find
 
 
 - Exam breakdown
-  https://github.com/imtiajmeah/AZ-900/blob/master/Exam
+  https://github.com/imtiajmeah/AZ-900/blob/master/Exam.md
