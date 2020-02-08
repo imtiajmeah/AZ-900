@@ -6,5 +6,8 @@ I took the Azure AZ-900 exam in Jan 2020 and passed first time. Prior to taking 
 I would like to share my notes and hope someone else looking to do the same finds this useful and hopefully save them time and effort combing the internet for all the resources.
 
 - First and foremost head over to Microsoft and go through the free online course.
+  https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/
 
-https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/
+
+- Exam breakdown
+  https://github.com/imtiajmeah/AZ-900/blob/master/Exam
